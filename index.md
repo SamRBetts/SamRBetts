@@ -4,6 +4,8 @@ layout: default
 
 |Page 1|Page 2|
 |----|---------|
+
+
 [Link to another page](./another-page.html).
 
 **Welcome!** I'm Sam Betts, a Mechanical Engineering major at Rose-Hulman Institute of Technology. I'm also aspiring for minors in Robotics, German, Astronomy, and a concentration in Aerospace. Resume follows. 
