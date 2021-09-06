@@ -56,9 +56,9 @@ a:hover small {
 }
 
 .wrapper {
-  width:1000px;
+  width:1100px;
   margin:0 auto;
-  border:1px solid blue;
+  /*border:1px solid blue;*/
 }
 
 blockquote {
@@ -120,10 +120,10 @@ kbd {
 }
 
 header {
-  width:270px;
+  width:300px;
   float:left;
   position:fixed;
-  border:1px solid black;
+  /* border:1px solid black; */
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -188,10 +188,10 @@ strong {
 }
 
 section {
-  width:650px;
+  width:730px;
   float:right;
   padding-bottom:50px;
-  border:1px solid red;
+ /* border:1px solid red;*/
 }
 
 small {
@@ -206,7 +206,7 @@ hr {
 }
 
 footer {
-  width:270px;
+  width:300px;
   float:left;
   position:fixed;
   bottom:50px;
