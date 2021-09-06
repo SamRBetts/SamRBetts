@@ -6,7 +6,7 @@
 
 ## Modified Power Wheels Car
 
-<img src="PowerWheels.png" alt="Car" style="float:right;width:42px;height:42px;">
+<img src="PowerWheels2.png" alt="Car" style="float:right;">
 
 Through the club on campus Make it Happen, I started working on a project for two kids with muscle distrophy. They loved riding around in power wheels cars, but their condition didn't allow them to do it safetly or comfortably. I worked with three other people on this project while getting input from the parents. 
 
