@@ -3,4 +3,4 @@
 ##### This resume is current as of 9/5/2021
 
 
-![resume](/assets/img/resume.pdf)
+![resume](/assets/img/resume.png)
