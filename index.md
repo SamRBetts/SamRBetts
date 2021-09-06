@@ -2,7 +2,7 @@
 layout: default
 ---
 
-|---About me---      |---[Projects](./projects.html)---|    --- [Resume](./Resume.html)---
+|---About me---      |---[Projects](./projects.html)---|    --- [Resume](./resume.html)---
 
 # About me
 
