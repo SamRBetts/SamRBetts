@@ -1,4 +1,4 @@
-|--- [About me](./index.html)---      |---Projects---|    --- [Resume](./Resume.html)---
+|--- [About me](./index.html)---      |---Projects---|    --- [Resume](./resume.html)---
 
 
 # Modified Power Wheels Car
