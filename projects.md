@@ -1,5 +1,8 @@
 |--- [About me](./index.html)---      |---Projects---|    --- [Resume](./resume.html)---
 
+# Projects
+
+---
 
 # Modified Power Wheels Car
 
