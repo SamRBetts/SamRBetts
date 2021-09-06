@@ -1,7 +1,5 @@
 theme: jekyll-theme-minimal
-title: Projects!
+title: Sam Betts' Portfolio
 author: Sam Betts
-description: > # this means to ignore newlines until "baseurl:"
-  Projects and stuff
-# social links
+description: You will find on this website a condensed version of me including the projects I've worked on in the past, my resume, and my contact information
 logo: /assets/img/Sam2.jpg
