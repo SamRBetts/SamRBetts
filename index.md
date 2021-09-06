@@ -17,7 +17,7 @@ Here is where my personal statement will go!
 
 I enjoy participating in clubs on campus like Astronomy Club, DBF, Rocketry Club, and Climbing Club
 
-<img src="/assets/img/RH Astronomical Society.png" alt="Logo" width="100" height="100">
+![Astronomy Club](/assets/img/RH Astronomical Society2.png)
 
 
 I also paint, play cello, play with my dog, and read. 
