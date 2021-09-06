@@ -16,7 +16,11 @@ It was an interesting challenge to modify a car for specific needs. We ended up 
 
 ## Genetic Algorithm 
 
-ings and stuff and things 
+<img src="genalgo.PNG" alt="gen algo" style="float:right;">
+
+In the class Object Oriented Programming (CSSE220), our final project was (optionally) to do a research project using a genetic algorithm. Most other student opted to the arcade game project, but my partner and I wanted a challenge. The software simulates generations of a species throughout time. The genetic material from each generation can change based on the settings you give the program. The program records and displays the "fittest" individual's chromosome (simulated using 100 blocks of binary color). The graph shows how this fittness changes with each generation. The software includes a options for crossing over genetic material between individuals, changing the rate random changes or mutations between generations, keeping the fittest individual,  and sizes of the chromosome and population, and number of generations. 
+
+
 
 ## Drone Project
 
