@@ -2,7 +2,7 @@
 layout: default
 ---
 
-|About me|[Projects](./projects.html)|[Resume](./Resume.html).
+|About me---      |[Projects](./projects.html)---|     [Resume](./Resume.html)---
 
 # About me
 
@@ -17,6 +17,6 @@ Here is where my personal statement will go!
 
 I enjoy participating in clubs on campus like Astronomy Club, DBF, Rocketry Club, and Climbing Club
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Astronomy Club](/assets/img/RH Astronomical Society.png)
 
 I also paint, play cello, play with my dog, and read. 
