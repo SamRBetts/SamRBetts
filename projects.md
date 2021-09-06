@@ -1,3 +1,6 @@
+|--- [About me](./index.html)---      |---Projects---|    --- [Resume](./Resume.html)---
+
+
 # Modified Power Wheels Car
 
 things and stuff and things 
