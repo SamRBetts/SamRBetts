@@ -30,7 +30,7 @@ In the class Object Oriented Programming (CSSE220), our final project was (optio
 During my time at NASA, I worked on creating a 3D printed mock-up of a fuel cell. A Proton-Exchange Membrane Regenerative Fuel Cell has yet to be tested in Low-Earth Orbit (LEO), so my mentor wanted an analysis of the costs of launching a nano-satellite in the extra cargo space of a rocket. I worked with a partner on the 3D modeling and printing of the case, and I did research on the required electronics and created a high-level systems diagram. I learned a lot very quickly as satelitte technology is very specialized for the conditions of LEO. 
 
 We presented to our findings to our mentors, but the project was put on the side-line with the increase in demand from the Artemis Program. 
-<img src="CS Frame.jpg" alt="frame" style="float:left;">
+<img src=".\CS Frame.jpg" alt="frame" style="float:left;">
 <img src="CS Fuel Cell .jpg" alt="Car" >
 <img src="CS electronics.jpg" alt="Car" style="float:right;">
 
